@@ -16,14 +16,14 @@
 
 - 👨‍💻 Tous mes projets sont disponibles sur [github.com/Vvignali](https://github.com/Vvignali)
 
-- 📫 Me contacter : vincent@exemple.com
+- 📫 Me contacter : vincentvignali13@gmail.com
 
 ---
 
 ## 🛠️ Stack & outils
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,swift,docker,python,elixir,git,mysql,postgres,raspberrypi&theme=light" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=php,swift,docker,python,git,mysql,postgres&theme=light" alt="skills" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ## 🌐 Réseaux & contact
 
 - 🔗 [LinkedIn](https://linkedin.com/in/ton-profil)
-- ✉️ vincent@exemple.com
+- ✉️ vincentvignali13@gmail.com
 
 ---
 
