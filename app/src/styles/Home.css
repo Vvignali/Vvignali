@@ -1,0 +1,76 @@
+/* src/styles/Home.css */
+
+.home {
+  padding: 4rem 2rem;
+  background-color: var(--color-background);
+  color: var(--color-text);
+}
+
+.home-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.home-text {
+  flex: 1;
+  min-width: 280px;
+}
+
+.home-text h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: var(--color-accent);
+}
+
+.home-text p {
+  font-size: 1.125rem;
+  margin-bottom: 1rem;
+}
+
+.home-stack {
+  font-weight: 600;
+  margin-top: 1rem;
+  color: var(--color-muted);
+}
+
+.home-buttons {
+  margin-top: 2rem;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.home-btn {
+  padding: 0.75rem 1.5rem;
+  background-color: var(--color-accent);
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+  transition: background-color 0.3s;
+}
+
+.home-btn:hover {
+  background-color: var(--color-accent-hover);
+}
+
+.home-btn.secondary {
+  background-color: transparent;
+  border: 1px solid var(--color-accent);
+  color: var(--color-accent);
+}
+
+.home-btn.secondary:hover {
+  background-color: var(--color-accent);
+  color: white;
+}
+
+.home-photo img {
+  max-width: 240px;
+  border-radius: 8px;
+}
