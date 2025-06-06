@@ -1,5 +1,3 @@
-import { useState } from 'react'
-
 import './styles/App.css'
 
 import Seo from './components/Seo.jsx'
